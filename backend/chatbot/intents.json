@@ -1,0 +1,58 @@
+{
+  "intents": [
+    {
+      "tag": "saudacao",
+      "patterns": [
+        "olá",
+        "oi",
+        "bom dia",
+        "boa tarde",
+        "tudo bem?",
+        "e aí"
+      ],
+      "responses": [
+        "Olá, como posso ajudar?",
+        "Oi, o que você precisa?",
+        "Olá, é um prazer te ajudar."
+      ]
+    },
+    {
+      "tag": "despedida",
+      "patterns": [
+        "tchau",
+        "até mais",
+        "falou",
+        "obrigado",
+        "valeu"
+      ],
+      "responses": [
+        "Até mais!",
+        "Tchau, foi um prazer te ajudar!",
+        "Qualquer coisa é só chamar!"
+      ]
+    },
+    {
+      "tag": "nome",
+      "patterns": [
+        "qual o seu nome?",
+        "quem é você?",
+        "você tem nome?"
+      ],
+      "responses": [
+        "Eu sou um chatbot, meu nome é Assistente Virtual.",
+        "Pode me chamar de Assistente Virtual."
+      ]
+    },
+    {
+      "tag": "clientes",
+      "patterns": [
+        "o que é um cliente?",
+        "quais os clientes?"
+      ],
+      "responses": [
+        "Um cliente é qualquer pessoa ou entidade que interage com os nossos serviços ou produtos."
+      ]
+    }
+
+  ]
+}
