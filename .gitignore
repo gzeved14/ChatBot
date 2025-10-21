@@ -1,0 +1,23 @@
+# Ambientes virtuais Python
+venv/
+.venv/
+# -----------------------------------------------------------------
+# ARQUIVOS DE CACHE E COMPILADOS
+# -----------------------------------------------------------------
+
+# Cache de Python
+__pycache__/
+.mypy_cache/
+
+# Cache de Node.js (embora node_modules/ já ignore a maioria)
+.npm/
+
+# Cache de IDEs (muito comum)
+.idea/ # Pastas de IDEs JetBrains (IntelliJ, PyCharm, WebStorm, etc.)
+.vscode/ # Configurações de workspace do VS Code
+
+# Arquivos de sistema operacional (Mac/Windows)
+.DS_Store
+Thumbs.db
+# Arquivos de IDEs JetBrains (IntelliJ, PyCharm, WebStorm, etc.)
+.idea/
