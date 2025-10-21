@@ -21,3 +21,7 @@ __pycache__/
 Thumbs.db
 # Arquivos de IDEs JetBrains (IntelliJ, PyCharm, WebStorm, etc.)
 .idea/
+# Arquivos de Segredos e Configuração
+.env
+*.env
+*.env.py
