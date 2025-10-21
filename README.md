@@ -1,13 +1,5 @@
 # ChatBot
 
-<<<<<<< HEAD
-
-## 📄 Conteúdo do `README.md`
-
-````markdown
-=======
-
-> > > > > > > 1ffd495fda3952c4e9d0039429255b224da482cf
 
 # 🤖 ChatBot com Backend Python e Frontend Web
 
