@@ -11,7 +11,7 @@ Este projeto implementa um sistema de ChatBot utilizando Python no Backend (com 
 
 ## ⚙️ Tecnologias Utilizadas
 
-<<<<<<< HEAD
+
 | Componente | Tecnologia | Detalhes |
 | :---------------- | :----------------------------------- | :-------------------------------------------------------------------- |
 | **Backend** | Python | Lógica principal, serviços, rotas e banco de dados. |
@@ -28,7 +28,6 @@ Este projeto implementa um sistema de ChatBot utilizando Python no Backend (com 
 | **Frontend** | HTML5, CSS3, JavaScript | Interface de chat embutida. |
 | **PLN/IA** | OpenAI API / Dados em `intents.json` | Motor de inteligência do chatbot. |
 
-> > > > > > > 1ffd495fda3952c4e9d0039429255b224da482cf
 
 ---
 
@@ -39,21 +38,21 @@ Siga os passos abaixo para configurar e executar o projeto em sua máquina.
 ### Pré-requisitos
 
 Você precisa ter instalado em sua máquina:
-<<<<<<< HEAD
+
 
 - [Python 3.x](https://www.python.org/downloads/)
 - # [Git](https://git-scm.com/downloads)
 
 * [Python 3.x](https://www.python.org/downloads/)
 * [Git](https://git-scm.com/downloads)
-  > > > > > > > 1ffd495fda3952c4e9d0039429255b224da482cf
+
 
 ### 1. Clonar o Repositório
 
 ```bash
 git clone [https://github.com/gzeved14/ChatBot.git](https://github.com/gzeved14/ChatBot.git)
 cd ChatBot
-<<<<<<< HEAD
+
 ```
 ````
 
